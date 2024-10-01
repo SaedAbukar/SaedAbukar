@@ -1,4 +1,7 @@
-# Hello World!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://fi.linkedin.com/in/saed-abukar-a1bb592b5)
+
+
+Hello World!
 
 Welcome to my GitHub! I'm **Saed Abukar**, an ambitious Software Engineer in the making, driven by a passion for building impactful and innovative software solutions that address real-world challenges. 
 
