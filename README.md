@@ -1,4 +1,4 @@
-# 👋 Hello World!
+# Hello World!
 
 Welcome to my GitHub! I'm **Saed Abukar**, an ambitious Software Engineer in the making, driven by a passion for building impactful and innovative software solutions that address real-world challenges. 
 
