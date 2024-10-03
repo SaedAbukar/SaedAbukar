@@ -1,10 +1,15 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://fi.linkedin.com/in/saed-abukar-a1bb592b5)
+# 💫 About Me:
+Hello World!<br><br>Welcome to my GitHub! I'm Saed Abukar, an ambitious Software Engineer in the making, driven by a passion for building impactful and innovative software solutions that address real-world challenges.<br><br>I'm currently pursuing a degree in Information and Communication Technology at Metropolia University of Applied Sciences, majoring in Software Engineering, where I aim to expand my knowledge and skills in cutting-edge technologies.<br><br>Join me on this exciting journey as I explore, learn, and shape the future of tech. Stay tuned for projects, insights, and more!
 
 
-Hello World!
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/saedabukar_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://fi.linkedin.com/in/saed-abukar-a1bb592b5) 
 
-Welcome to my GitHub! I'm **Saed Abukar**, an ambitious Software Engineer in the making, driven by a passion for building impactful and innovative software solutions that address real-world challenges. 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SaedAbukar&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SaedAbukar&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaedAbukar&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I'm currently pursuing a degree in **Information and Communication Technology** at **Metropolia University of Applied Sciences**, majoring in **Software Engineering**, where I aim to expand my knowledge and skills in cutting-edge technologies.
-
-Join me on this exciting journey as I explore, learn, and shape the future of tech. Stay tuned for projects, insights, and more!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
